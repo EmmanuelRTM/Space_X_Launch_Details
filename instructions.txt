@@ -1,0 +1,24 @@
+npm init
+npm i graphql express-graphql express axios
+npm i -D nodemon
+
+Modify the scripts:
+    "start": "node server.js",
+    "server": "nodemon server.js"
+
+Create server.js 
+    Add simple setup of graphqlHTTP
+
+Create schema.js
+    Check Space X API of all launches
+    Create Launch type
+    Create Rocket type
+    Create Root query 
+    Set export deafult
+
+Abrir http://localhost:5000/graphql
+
+RootQuery  --->
+    set get one launch by id
+    set get rockets and rocket
+
