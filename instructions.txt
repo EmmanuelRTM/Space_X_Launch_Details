@@ -22,3 +22,22 @@ RootQuery  --->
     set get one launch by id
     set get rockets and rocket
 
+git init > add > commit
+gitignore >node modules and client
+
+npx create-react-app client
+npm i concurrently
+
+add package json and prove that dev works:
+"client": "npm start -prefix client",
+"dev": "concurrently \"npm run server\" \"npm run client"" <<<>>>>>>
+
+
+clean content of app.css
+eliminate logo
+get rid of header
+create h1 w Space X
+Bootswatch > Cyborg them > copy link > public > index.html >create a link /> with stylesheet
+Change tittle to Space X launches
+
+Copy logo to src folder
