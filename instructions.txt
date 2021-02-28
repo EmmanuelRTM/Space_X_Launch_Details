@@ -41,3 +41,28 @@ Bootswatch > Cyborg them > copy link > public > index.html >create a link /> wit
 Change tittle to Space X launches
 
 Copy logo to src folder
+
+install @apollo/client graphql
+add libraries ApolloClient and ApolloProvider to app.js
+add const client
+create folder Components
+
+
+fill Launches component with the graph ql tag query 
+Add Launches componennt under img of the logo in app.js
+
+add query sql, loading, error and code to return
+
+isntall npm i cors and it to server--
+app>> app.use(cors())
+
+
+create LaunchItem componennt
+use map function for laucnhes in launchees.js and use launchItem to deploy  the info by passing the data
+
+destructure de props in launchitems
+acoomodate the info with react-bootstrap
+
+
+
+
