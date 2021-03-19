@@ -1,3 +1,7 @@
+These are some notes related to the video in youtube from:
+bradtraversy
+I only readapted his code: https://github.com/bradtraversy/spacex_launch_stats
+
 npm init
 npm i graphql express-graphql express axios
 npm i -D nodemon
