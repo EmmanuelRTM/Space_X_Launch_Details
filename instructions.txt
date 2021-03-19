@@ -63,6 +63,12 @@ use map function for laucnhes in launchees.js and use launchItem to deploy  the 
 destructure de props in launchitems
 acoomodate the info with react-bootstrap
 
+npm i classnames 
+launch_success: text success and text danger
+
+update app with /graphql direction
+package.json with proxy and mv build
+server.js-->> added path and static public thing
 
 
 
